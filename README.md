@@ -1,3 +1,4 @@
+![PDB MCP Server Logo](pdb-mcp-server-logo.png)
 # PDB MCP Server
 
 A Model Context Protocol (MCP) server that provides access to the Protein Data Bank (PDB) - the worldwide repository of information about the 3D structures of proteins, nucleic acids, and complex assemblies.
